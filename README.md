@@ -2,9 +2,15 @@
 The Commitment to Equity (CEQ) was designed to analyze the impact of taxation and social spending on inequality and poverty	in individual countries, and provide a roadmap for governments, multilateral institutions, and nongovernmental 		organizations in their efforts to build more equitable societies. Directed by Nora Lustig, the CEQ is a joint project of CIPR and the Department of Economics at Tulane University and the Inter-American Dialogue.
 
 This [**india_ceq**](https://github.com/mynorvc/india_ceq) repository is a collection of files, tasks and project following of implementation of CEQ in India by [**Centre For Budget and Governance Accountability**](http://www.cbgaindia.org/)
+
 >Note: This cronogram was adapted from a repo from [**Renato Vargas**](https://github.com/renatovargas/seea-aff).
 
 ## Objective
+
+## Documentation 
+See [**documents**](https://github.com/mynorvc/india_ceq/documents)
+
+
 ## Scope
 
 1.	**ESTIMATION OF DISPOSABLE INCOME**
@@ -103,9 +109,9 @@ This [**india_ceq**](https://github.com/mynorvc/india_ceq) repository is a colle
 
 |Dates  (mm/dd)| Actions |
 |---|---|
-| **(Nov/02 - Nov/09)** | Adapt SEEA AFF draft manual recommendations to local context.|
-| **(Nov/16 - Nov/23)** | Document information sources, data availability, and information gaps. |
-| **(Nov/24 - Dec/04)** | Compile and document SEEA-AFF Guatemala. |
+| **(Nov/02 - Nov/09)** | Estimation of Disposable Income.|
+| **(Nov/16 - Nov/23)** | Estimation of Post-Fiscal Income. |
+| **(Nov/24 - Dec/04)** | Final Income - Health. |
 |**(Dec/07 - Dec/18)**| Visit to India. |
 | **(Dec/21 - Jan/04)** | Final Income - Education. |
 | **(Jan/09 - Jan/18)** | Net Market Income. |
