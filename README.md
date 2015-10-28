@@ -8,7 +8,7 @@ This [**india_ceq**](https://github.com/mynorvc/india_ceq) repository is a colle
 ## Objective
 
 ## Documentation 
-See [**documents**](https://github.com/mynorvc/india_ceq/docs)
+See [**documents**](https://github.com/mynorvc/india_ceq/blob/master/docs.md)
 
 
 ## Scope
