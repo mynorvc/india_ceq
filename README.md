@@ -109,14 +109,14 @@ See [**documents**](https://github.com/mynorvc/india_ceq/blob/master/docs.md)
 
 |Dates  (mm/dd)| Actions |
 |---|---|
-| **(Nov/02 - Nov/09)** | Estimation of Disposable Income.|
-| **(Nov/16 - Nov/23)** | Estimation of Post-Fiscal Income. |
-| **(Nov/24 - Dec/04)** | Final Income - Health. |
-|**(Dec/07 - Dec/18)**| Visit to India. |
-| **(Dec/21 - Jan/04)** | Final Income - Education. |
-| **(Jan/09 - Jan/18)** | Net Market Income. |
-| **(Jan/18 - Jan/31)** | Market Income. |
-| **(Feb/01 - Feb/08)** | Presentation for discussion with preliminary results. |
-| **(Feb/08 - Feb/15)** | Draft Repor with main findings. |
+| **(Nov/02 - Nov/16)** | Estimation of Disposable Income.|
+| **(Nov/16 - Nov/30)** | Estimation of Post-Fiscal Income. |
+| **(Nov/30 - Dec/14)** | Final Income - Health. |
+| **(Dec/14 - Jan/04)** | Final Income - Education. |
+|**(Jan/05 - Jan/20)**| Visit to India. |
+| **(Jan/04 - Jan/11)** | Net Market Income. |
+| **(Jan/11 - Jan/18)** | Market Income. |
+| **(Jan/18 - Jan/20)** | Presentation for discussion with preliminary results. |
+| **(Jan/21 - Feb/15)** | Draft Report with main findings. |
 
 
