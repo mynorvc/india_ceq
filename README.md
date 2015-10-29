@@ -5,7 +5,8 @@ This [**india_ceq**](https://github.com/mynorvc/india_ceq) repository is a colle
 
 >Note: This cronogram was adapted from a repo from [**Renato Vargas**](https://github.com/renatovargas/seea-aff).
 
-## Objective
+## Objectives
+Analyze redistributive impact of taxes, transfers and social public expenditure in India. 
 
 ## Documentation 
 See [**documents**](https://github.com/mynorvc/india_ceq/blob/master/docs.md)
