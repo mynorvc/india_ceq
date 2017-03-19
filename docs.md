@@ -28,6 +28,8 @@
   * Public Expenditure
   * Social Expenditure
     * Education
+      * [**Statement Indicating Public Expenditure in Education**](http://mhrd.gov.in/sites/upload_files/mhrd/files/statistics/Public%20Expenditure.pdf) 
+      * [**Educational Statistics at a glance**](http://mhrd.gov.in/sites/upload_files/mhrd/files/statistics/EAG_2013.pdf)
     * Health
   * Subsidies
   
