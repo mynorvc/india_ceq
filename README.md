@@ -23,9 +23,8 @@ See [**documents**](https://github.com/mynorvc/india_ceq/blob/master/docs.md)
     *	Fill sheet A2.Evol Macro of workbook
     *	Fill sheet A3.Evol Ineq Pov of workbook
   * Estimate poverty and inequality using disposable income and compare with official estimates and others (like [**World Development Indicators**](http://povertydata.worldbank.org/poverty/country/IND))
- *	Solve questions about section 2.iii of CEQ Manual (pages 12-15)
 
-2. **ESTIMATION OF POST FISCAL INCOME**
+2. **ESTIMATION OF CONSUMABLE INCOME**
 	*	Fill sheet A3. Gov Spending & Taxation of workbook
 	*	Fill sheet A4. Tax System of workbook
 	*	Indirect Taxes
@@ -85,7 +84,7 @@ See [**documents**](https://github.com/mynorvc/india_ceq/blob/master/docs.md)
 	* Estimation of Net Market Income
 	* Analysis of poverty and inequality
 
-6.	**MARKET INCOME**
+6.	**MARKET INCOME & MARKET INCOME + PENSIONS**
 	* Estimation of Market Income
 	* Analysis of poverty and inequality
 
@@ -99,6 +98,8 @@ See [**documents**](https://github.com/mynorvc/india_ceq/blob/master/docs.md)
 		* Income Distribution
 		* Concentration Coefficients
 		* Comparison with other countries
+		
+		
 8.	**DRAFT REPORT WITH MAIN FINDINGS**
 	* Discussion of structure of paper and main messages
 	* Draft preliminary report
